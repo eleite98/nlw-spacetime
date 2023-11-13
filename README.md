@@ -4,7 +4,7 @@
 
 ## 🖥️ Project 
 
-Projeto web responsivo de uma cápsula do tempo para exibir memórias numa timeline
+Responsive web design of a time capsule to display memories on a timeline.
 
 ## 🚀 Tech Tools
 
